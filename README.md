@@ -195,7 +195,5 @@ Run the notebook from the project's root folder so the relative `Data/` path wor
 
 **Abdelaziz Elshourbgy**
 
-Computer Science Student | Data Analysis | Machine Learning | AI
-
 - GitHub: [AbdelazizElshourbgy-ui](https://github.com/AbdelazizElshourbgy-ui)
 - Kaggle: [abdelazizelshourbgy](https://www.kaggle.com/abdelazizelshourbgy)
